@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DXXAMLInterop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DXXAMLInterop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
